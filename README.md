@@ -42,4 +42,4 @@ R (tidyverse, arrow, ggplot2)
 
 ## How to run
 1. Download the DECP parquet file from data.gouv.fr and save it as decp.parquet
-2. Open benford_audit.R in RStudio and run it
+2. Open Benford_audit_script.r in RStudio and run it
