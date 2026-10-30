@@ -23,8 +23,8 @@ I use Benford's Law, a data-driven audit technique, to find unusual patterns in 
 - Among buyers with at least 200 contracts, the top 20 have more than 70% round amounts.
 - Cleaning the data (removing duplicates) did not remove the gap: the MAD was 0.0088 (first digit) and 0.0187 (second digit) before cleaning.
 
-![First digit](benford_1er_chiffre_propre.png)
-![Second digit](benford_2e_chiffre_propre.png)
+![First digit](benford_first_digit.png)
+![Second digit](benford_second_digit.png)
 
 ## Possible explanations (not tested)
 - Ceiling amounts in framework agreements
